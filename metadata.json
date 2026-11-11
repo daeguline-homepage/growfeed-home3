@@ -1,0 +1,6 @@
+{
+  "name": "맥섬석GM(주) | Growfeed®",
+  "description": "맥섬석GM(그로피드) 공식 웹사이트. 223ha 독점 광산 기반 원적외선 바이오 세라믹 기술로 곰팡이독소 흡착(이톡스), 도축혈액 100% 자원순환(프로테인), 메탄 61.5% 저감(DCM), 치유계란® 및 웰리온 비료를 생산합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

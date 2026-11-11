@@ -1,0 +1,20 @@
+# robots.txt for Macsumsuk GM (Growfeed®)
+# Optimized for Googlebot & Naver Search Advisor (Yeti)
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://www.growfeed.com/sitemap.xml
